@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,800;1,300&display=swap");
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+a {
+  color: gold;
+  text-decoration: none;
+}
+.App {
+  background-color: #14161a;
+  color: #fff;
+  min-height: 100vh;
+}
